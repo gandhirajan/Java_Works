@@ -1,4 +1,4 @@
-
+/* Class to find total number of unique paths to reach destination by taking 2 or 3 steps at a time */
 public class UniqueStepsPathFinder {
     public static void main(String[] args) {
         System.out.println(calculateUniquePathFor1To3Steps(4));
