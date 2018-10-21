@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+/* Class to find the minimum number of swaps required to arrange same strings together in a list */
 public class MinimumStringSwapFinder {
     public static void main(String args[]) {
         List<String> inputStringList = new ArrayList<>();
