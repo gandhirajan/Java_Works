@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
-
+/* Class to find the matching sum pair using minimum number of iterations */
 public class PairEqualsToSumFinder {
     public static void main(String args[]) {
         int matchingSum = 24;
