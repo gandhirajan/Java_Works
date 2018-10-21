@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+/* Class to convert dollar value into words */
 public class TextDollarChallenge {
 
     private static final int BASE_DIVISOR = 1000;
