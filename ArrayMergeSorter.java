@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+/* Java class to merge two arrays of size m and n into one array with m+n complexity */
 public class ArrayMergeSorter {
 
     private static void sortedMerge(int a[], int b[], int res[], int n, int m) {
