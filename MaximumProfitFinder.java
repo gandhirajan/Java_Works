@@ -1,4 +1,5 @@
 import java.util.*;
+/* Class to find maximum profit by choosing best route where the next element is the multiple of previous element */
 public class MaximumProfitFinder {
     private static List<TreeNode> nodeList = new ArrayList<>();
     public static void main (String[] args) {
